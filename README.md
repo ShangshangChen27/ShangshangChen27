@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shangshang 👋
 
-<!--
-**ShangshangChen27/ShangshangChen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UBC graduate | Python | Learning Transformers (Hugging Face) & LLM Agents
 
-Here are some ideas to get you started:
+## 🎯 Goal (Next 4 months)
+Build 3 portfolio projects:
+1) PyTorch text classification (from scratch training loop)
+2) Hugging Face Transformer fine-tuning (Trainer + evaluation)
+3) RAG or Agent system (end-to-end demo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- Python
+- PyTorch (in progress)
+- Hugging Face Transformers (in progress)
+
+## 📌 Portfolio Projects
+- [ ] PyTorch Text Classifier — (WIP)
+- [ ] HF Fine-tuning Project — (WIP)
+- [ ] RAG / Agent System — (WIP)
+
+## 📫 Contact
+- Email: (Shangshangchen@outlook.com)
